@@ -16,7 +16,7 @@ if (apiKey) {
 }
 
 // Create a new prompt template for formatting prompts
-const promptTemplate = new PromptTemplate({
+const promptTemplate = new PromptTemplate({"testing testing blah blah blah": "
   // TODO: Define the prompt template
 });
 
